@@ -7,11 +7,11 @@ i have tried to replicate Worx Landroid W790.E &amp; W791.E front sensors.
 |Reference|Component Type|Value|Unit|Package|Quantity|
 |---------|--------------|-----|----|-------|--------|
 |L1       |Inductor      |180  |mH  |TBD    |1       |
-|R1       |Resistor      |2.2  |kΩ  |0402   |1       |
-|R2       |Resistor      |47   |kΩ  |0402   |1       |
-|R3       |Resistor      |20   |kΩ  |0402   |1       |
-|C1       |Capacitor     |1    |µF  |0603   |1       |
-|C2       |Capacitor     |10   |nF  |0402   |1       |
+|R1       |Resistor      |2.2  |kΩ  |0603   |1       |
+|R2       |Resistor      |47   |kΩ  |0603   |1       |
+|R3       |Resistor      |20   |kΩ  |0603   |1       |
+|C1       |Capacitor     |1    |µF  |0805   |1       |
+|C2       |Capacitor     |10   |nF  |0603   |1       |
 
 -----
 
